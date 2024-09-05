@@ -1,0 +1,9 @@
+#Generate transcrip from youtube videos
+youtube_transcript_api
+
+#frontend
+streamlit
+
+google-generativeai
+python-dotenv
+pathlib
